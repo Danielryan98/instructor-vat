@@ -1,6 +1,6 @@
 pipeline{
  environment {
-        registry = "jenkinsadmin/vatcal"
+        registry = "danryan1/vatcal"
         registryCredentials = "dockerhub_danid"
         dockerImage = ""
     }
