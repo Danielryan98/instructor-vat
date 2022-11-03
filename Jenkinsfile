@@ -1,6 +1,6 @@
 pipeline{
  environment {
-        registry = "danryan1"
+        registry = "danryan1/react-docker"
         registryCredentials = "dockerhub_danid"
         dockerImage = ""
     }
