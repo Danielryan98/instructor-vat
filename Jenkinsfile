@@ -1,6 +1,6 @@
 pipeline{
  environment {
-        registry = "danryan1/calcvat"
+        registry = "danryan1/calc"
         registryCredentials = "dockerhub_danid"
         dockerImage = ""
     }
